@@ -28,3 +28,7 @@ hostname
 nslookup uol.com.br 8.8.8.8
 
 netsh interface ipv4 show interfaces
+
+Enviar resultados para:
+https://almeida-cma.github.io/receber/
+
