@@ -35,5 +35,3 @@ Enviar resultados dos comandos para:
 https://almeida-cma.github.io/receber/
 
 Exemplo de criptografia de descreiptografia com biblioteca Python na pasta "cripto"
-
-https://github.com/almeida-cma/REDES_T8
