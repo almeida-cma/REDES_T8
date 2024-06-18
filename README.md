@@ -11,7 +11,7 @@ netstat -e
 
 systeminfo | find "Tempo de Inicialização do Sistema"
 
-netstat -an | findstr :12345
+netstat -an | findstr :5000
 
 route print
 
