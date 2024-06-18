@@ -1,6 +1,8 @@
 # REDES_T8
 Dispositivo de Rede e Comandos Básico de Rede
 
+COMANDOS PARA UTILIZAÇÃO EM CONJUNTO COM O APP em Python da pasta "comandos";
+
 ping google.com
 
 tracert google.com
@@ -29,6 +31,7 @@ nslookup uol.com.br 8.8.8.8
 
 netsh interface ipv4 show interfaces
 
-Enviar resultados para:
+Enviar resultados dos comandos para:
 https://almeida-cma.github.io/receber/
+
 
